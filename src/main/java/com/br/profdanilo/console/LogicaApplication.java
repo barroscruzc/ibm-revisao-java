@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LogicaApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Bem vindo ao app java console");
+		System.out.println("Bem vindo ao app java console!");
 		SpringApplication.run(LogicaApplication.class, args);
 	}
 
