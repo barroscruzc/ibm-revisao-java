@@ -596,6 +596,9 @@ ehthumbs_vista.db
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+.mvn
+mvnw
+mvnw.cmd
 
 # Windows Installer files
 *.cab
